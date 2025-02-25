@@ -1,0 +1,3 @@
+plik do testu
+testing file
+vsc connection test, sync update, commit
